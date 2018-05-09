@@ -1,3 +1,3 @@
-# KingaBernhardt.github.io
+## Kinga Kovacsne Bernhardt
 
-This is were my first tries how to code lay.
+This is were my first tries how to code lay.  :computer:
